@@ -2,6 +2,7 @@
 
 ##### Build:
 ```make.sh``` or ```make.bat```
+
 Tested with MSVC 19.00.24210 on Win 7, clang-800.0.42.1 on macOS Sierra
 
 ##### Usage:
