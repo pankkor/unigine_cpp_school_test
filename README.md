@@ -17,5 +17,6 @@ Tested with MSVC 19.00.24210 on Win 7, clang-800.0.42.1 on macOS Sierra
 
 ##### Complexity:
 Build frequency table - Big O(N), where N is nuber of characters in file
+
 Sorted output - Big O(KlogK), where K is number of unique words in frequency table
 
