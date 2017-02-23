@@ -3,7 +3,7 @@
 ##### Build:
 ```make.sh``` or ```make.bat```
 
-##### Usage
+##### Usage:
 ```$./freq in.txt out.txt```
 
 ##### Algorythm:
