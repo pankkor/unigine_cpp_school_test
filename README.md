@@ -7,7 +7,7 @@ Tested with MSVC 19.00.24210 on Win 7, clang-800.0.42.1 on macOS Sierra
 ##### Usage:
 ```$./freq in.txt out.txt```
 
-##### Algorythm:
+##### Algorithm:
 1. find next token
 2. get frequency for token from hashmap (```hashmap[token]```)
 3. put frequency + 1 back in hashmap for token (```hashmap[token] += 1```)
